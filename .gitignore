@@ -1,0 +1,53 @@
+# IP Tracker Project Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment and config files
+.env
+config.ini
+.vscode/
+.idea/
+
+# Log files
+*.log
+logs/
+logs.txt
+
+# SSL certificates
+*.pem
+*.key
+*.crt
+ssl/
+
+# Docker
+.dockerignore
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*.tmp
